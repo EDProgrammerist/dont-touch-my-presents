@@ -3,9 +3,9 @@
 Big problem! The holidays are almost here but people keep trying to steal your presents. It's up to you to see how long
 you can defend your precious gift.
 
-[Copyright to](https://github.com/Gooodgis) with Python and Pygame.
+[Copyright to] https://github.com/Gooodgis with Python and Pygame.
 
-![]()
+![](https://github.com/EDProgrammerist/dont-touch-my-presents/blob/master/Preview.png?raw=true)
 
 ## How to Play
 
